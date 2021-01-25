@@ -1,5 +1,7 @@
 # BackgammonRepository
 
+Backgammon AI created with Nuriel Leve, Ike Osenberg, and Veronica Ayers for Systems Programming Course.  Run GUI using wxwidgets.
+
 ## Notes
 - There are two colors; white (the player) and brown/black (the AI/opponent)
 - White is ready to bear off when its pieces are in spaces 18-23
